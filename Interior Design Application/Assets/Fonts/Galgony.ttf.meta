@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7965a1f9c3e6495458e821cb8f5a591b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Galgony
+  fontNames:
+  - Galgony
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bd33f27cdd1ac014c90b63dcef280e09, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
