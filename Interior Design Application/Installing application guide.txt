@@ -1,0 +1,8 @@
+*****Interior Design Application Readme*******
+Run the application using following steps:
+1. Download the Interior Design Application.zip
+2. Extract all of its content using 7 zip or winrar
+3. Run Interior Design Application.exe file
+4. Enjoy! :)
+_________________________________________________
+
